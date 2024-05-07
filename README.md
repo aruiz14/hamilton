@@ -1,6 +1,10 @@
-> [!IMPORTANT]  
+# About this fork
+
+> [!IMPORTANT]
+> Rancher will use this fork as a temporary measure until the Azure Active Directory provider is migrated to use the official SDK from Microsoft.
 > This fork is based on version 0.4.6 + a fix for the performance problem described in [this PR]([url](https://github.com/manicminer/hamilton/pull/271)).
-> It is a temporary measure until the Azure Active Directory provider in Rancher is migrated to use the official SDK from Microsoft.
+
+----
 
 # Hamilton is a Go SDK for Microsoft Graph
 
